@@ -10,6 +10,7 @@ This cpp file  inludes all the functions for the Binary Search Tree.
 */
 
 #include <string>
+#include <cmath>
 #include <iostream>
 using namespace std;
 
